@@ -1,4 +1,4 @@
-module github.com/caddy-dns/rfc2136
+module github.com/ha3730/rfc2136-cname
 
 go 1.24
 
